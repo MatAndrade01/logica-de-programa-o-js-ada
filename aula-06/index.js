@@ -1,2 +1,2 @@
 console.log('Wello world!');
-console.log('Estamos na aula 06!');
+console.log('Estamos na aula 06!');clearInterval
